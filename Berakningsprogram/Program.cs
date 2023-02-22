@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Test Test");
             Console.WriteLine("Hej och välkommen till beräkningsprogrammet.");
             Console.WriteLine("Skriv 'hjälp' för hjälp!");
             string command;
